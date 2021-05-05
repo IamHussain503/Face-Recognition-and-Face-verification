@@ -1,4 +1,4 @@
-# Data Downlaod path
+# Data Download path
 Download the data from the given link and put it in the same directory as ipython notebook and change the path of the directory where you put it in the google drive.
 https://drive.google.com/drive/folders/1CHv7uzCHh_XpyMVdbyWnwxjfJ0WMG97l?usp=sharing
 
